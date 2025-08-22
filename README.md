@@ -1,5 +1,5 @@
 
-# AppComplete 🎯
+# AppMobil (Amodrinks) 🎯
 
 Aplicación de preguntas por categorías construida con **React Native (Expo)** y **Node.js**, conectada a una **base de datos MySQL** real.  
 Ideal para romper el hielo en reuniones o convivencias, con categorías como **Chill**, **Citas** y **Hot**.
